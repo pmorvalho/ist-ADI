@@ -8,18 +8,18 @@
 
 Notas:
 
-hw1 - 10/10
+hw1 - 10/10  
 lab1 - 9,8/10
 
-hw2 - 
-lab2 -
+hw2 - /10  
+lab2 - /10  
 
-hw3 - 
-lab3 - 
+hw3 - /10   
+lab3 - /10  
 
-hw4 - 
-lab4 -
+hw4 - /10  
+lab4 - /10  
 
-hw5 - 
-lab5 -
+hw5 - /10  
+lab5 - /10 
 
